@@ -1,0 +1,33 @@
+#contenedor {
+	width:100%;
+	margin:0px;
+	border:1px solid #000;
+	background-color:#f2f2f2;
+}
+
+header {
+	padding:15px;
+	color: #fff;
+	background-color:#becdfe;
+	clear:both;
+}
+
+aside {
+	float:left;
+	width:200px;
+	margin:0;
+	padding:1em;
+}
+
+section {
+	float: left;
+	border-left: 1px solid #aaa;
+	padding:1em;
+}
+
+footer {
+	padding: 10px;
+	color: #fff;
+	background-color:#becdfe;
+	clear:left;
+}
